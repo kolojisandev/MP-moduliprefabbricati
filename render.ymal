@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: MP-moduliprefabbricati
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
